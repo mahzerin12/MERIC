@@ -1,14 +1,9 @@
 fileFormatVersion: 2
-guid: 1082a36de70737641ab8180a20ffbd89
+guid: 345dd47b26abaf64aa570dc054d43b07
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
-  externalObjects:
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Translucent_Glass_Gray
-    second: {fileID: 2100000, guid: 32a7131caa2dded4a983ef50cd5f6974, type: 2}
+  externalObjects: {}
   materials:
     materialImportMode: 2
     materialName: 0

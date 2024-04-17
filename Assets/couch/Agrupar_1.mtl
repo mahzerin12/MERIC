@@ -1,0 +1,16 @@
+#
+## Alias OBJ Material File
+# Exported from SketchUp, (c) 2000-2012 Trimble Navigation Limited
+
+newmtl Canap_
+Ka 0.000000 0.000000 0.000000
+Kd 0.239216 0.239216 0.239216
+Ks 0.330000 0.330000 0.330000
+map_Kd Agrupar_1/Canap_.jpg
+
+newmtl Color_001
+Ka 0.000000 0.000000 0.000000
+Kd 0.643137 0.643137 0.643137
+Ks 0.330000 0.330000 0.330000
+map_Kd Agrupar_1/Color_001.jpg
+
