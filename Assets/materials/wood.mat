@@ -30,15 +30,19 @@ Material:
     m_TexEnvs:
     - _BaseMap:
         m_Texture: {fileID: 2800000, guid: 909b293e0d27f60409aa9fd8beed053c, type: 3}
-        m_Scale: {x: 1, y: 1}
+        m_Scale: {x: 0.05, y: 0.05}
         m_Offset: {x: 0, y: 0}
     - _BumpMap:
         m_Texture: {fileID: 2800000, guid: ebd4447d94308934facd4bf9b280a939, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
+    - _DetailAlbedoMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 0.05, y: 0.05}
+        m_Offset: {x: 0, y: 0}
     - _MainTex:
         m_Texture: {fileID: 2800000, guid: 909b293e0d27f60409aa9fd8beed053c, type: 3}
-        m_Scale: {x: 1, y: 1}
+        m_Scale: {x: 0.05, y: 0.05}
         m_Offset: {x: 0, y: 0}
     - _ParallaxMap:
         m_Texture: {fileID: 2800000, guid: cac82c51b5f5b574793057cc5e085c05, type: 3}
