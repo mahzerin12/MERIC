@@ -1,0 +1,21 @@
+#
+## Alias OBJ Material File
+# Exported from SketchUp, (c) 2000-2012 Trimble Navigation Limited
+
+newmtl Glass_Window_Neutral_3
+Ka 0.000000 0.000000 0.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.330000 0.330000 0.330000
+d 0.123130
+
+newmtl Aluminum_Bumpy_5cm
+Ka 0.000000 0.000000 0.000000
+Kd 0.862745 0.631373 0.701961
+Ks 0.330000 0.330000 0.330000
+map_Kd Glass+Door2/Aluminum_Bumpy_5cm.png
+
+newmtl Iron_Blurry_5cm_1
+Ka 0.000000 0.000000 0.000000
+Kd 0.141176 0.141176 0.141176
+Ks 0.330000 0.330000 0.330000
+
